@@ -9,5 +9,6 @@ HTML Parser是[Beautifulsoup](http://www.crummy.com/software/BeautifulSoup/)。
 
 >图形界面采用[wxpython](http://wxpython.org/)，但是远未成型。
 
+>下载不是太稳定，特别是设定了多个线程同时启动之后
 
->>下载不是太稳定，特别是设定了多个线程同时启动之后
+[项目原始地址](https://github.com/icys13/douban/)
